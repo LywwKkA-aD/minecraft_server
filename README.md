@@ -12,3 +12,5 @@ Once the package is downloaded, perform install with the apt or dpkg package man
 ```sh
 sudo dpkg -i jdk-21_linux-x64_bin.deb
 ```
+
+link: [CraftBukkit 1.20.1](https://download.getbukkit.org/craftbukkit/craftbukkit-1.20.1.jar)
